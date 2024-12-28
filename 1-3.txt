@@ -1,1 +1,219 @@
+1 Introduction
+Order Primates
+Primates are a diverse group of mammals that have evolved from a group of insectivorous mammals some 60 million years ago. Indeed, it is difficult to define primates since they lack a single feature that separates them from other mammalian groups. At the same time, primates have remained plesiomorphic, retaining many ancestral features, rather than becoming highly apomorphic as did many groups of mammals, for example, the horse with a single digit in each foot.
+Today, there are nearly 300 primate species grouped into about 80 genera (depending on the source), most of which live in tropical or subtropical regions of the world. The majority of living primate taxa are monkeys, and are present in both the New and Old Worlds, while prosimians are found in Madagascar, Africa, and Asia, the great apes inhabit Africa, Borneo, and Sumatra, and the lesser apes live in many regions of Southeast Asia. The remaining primate species, Homo sapiens, is the only living hominid and is found in most regions of the world. The primate classification presented here is often referred to as the traditional one since it is based on the level or grade of organization of the different primate groups. Table 1.1 presents a classification of living primates. This list includes only the primates examined in this book, and therefore does not represent a complete list of all extant genera. Classifications and scientific names often change through time; I have therefore attempted to include the changes that have occurred since the original version of this book appeared in 1976.
+Dental cast collection
+The basic data presented in this book were taken from plaster casts made from alginate impressions. The impressions and casts were made of the permanent and deciduous teeth of primate skulls housed in the following museums: American Museum of Natural History, National Museum of
+1
+Table 1.1. Classification of living primates studied in this book
+ 
+ORDER PRIMATES
+Suborder: Prosimii
+Infraorder: Lemuriformes
+Superfamily: Lemuroidea
+Family: Lemuridae Lemur catta
+Eulemur macaco
+E. rubiventer
+E. mongoz
+Varecia variegata
+Hapalemur griseus
+Family: Lepilemuridae
+Lepilemur mustelinus
+Family: Cheirogaleidae
+Microcebus murinus
+Cheirogaleus major
+Phaner furcifer
+Family: Indriidae
+Indri indri
+Propithecus verreauxi
+Avahi laniger
+Family: Daubentoniidae
+Daubentonia madagascariensis
+Superfamily: Lorisoidea
+Family: Lorisidae
+Loris tardigradus
+Nycticebus coucang
+Perodicticus potto
+Arctocebus calabarensis
+Family: Galagidae
+Otolemur crassicaudatus
+Galago senegalensis
+Infraorder: Tarsiiformes
+Superfamily: Tarsioidea
+Family: Tarsiidae
+Tarsius spectrum
+T. bancanus
+T. syrichta
+Suborder: Anthropoidea
+Infraorder: Platyrrhini
+Superfamily: Ceboidea
+Family: Cebidae
+Subfamily: Callitrichinae
+Saguinus geoffroyi
+Leontopithecus rosalia
+Callithrix penicillata
+Cebuella pygmaea
+Callimico goeldii	Subfamily: Cebinae Cebus apella
+Saimiri sciureus
+S. oerstedii
+Subfamily: Aotinae
+Aotus trivirgatus
+Family: Atelidae
+Subfamily: Callicebinae
+Callicebus moloch
+Subfamily: Atelinae
+Ateles geoffroyi
+A. belzebuth
+A. paniscus
+A. fusciceps
+Lagothrix lagotricha
+Alouatta palliata
+A. seniculus
+A. belzebul
+Brachyteles arachnoides
+Subfamily: Pitheciinae Cacajo calvus
+Chiropotes satanas
+Pithecia pithecia
+Infraorder: Catarrhini
+Superfamily: Cercopithecoidea
+Family: Cercopithecidae
+Subfamily: Cercopithecinae
+Macaca nemestrina
+M. mulatta
+M. fascicularis
+M. nigra
+Lophocebus albigena
+L. aterrimus
+Cercocebus torquatus
+C. galeritus
+Papio cynocephalus
+Theropithecus gelada
+Mandrillus sphinx
+Cercopithecus nictitans
+C. cephus
+C. mona
+C. mitis
+C. lhoesti
+C. neglectus
+C. ascanius
+Chlorocebus aethiops
+Erythrocebus patas
+Miopithecus talapoin
+Dental cast collection
+Table 1.1 (cont.)
+ORDER PRIMATES (cont.)
+Subfamily: Colobinae Piliocolobus badius
+Colobus polykomos
+Presbytis comata
+Trachypithecus pileatus
+T. cristata
+T. phyrei
+Pygathrix nemaeus
+Simias concolor
+Nasalis larvatus
+Rhinopithecus roxellanae
+Kasi johnii	Superfamily: Hominoidea
+Family: Hylobatidae
+Hylobates klossi
+H. moloch
+H. lar
+H. syndactylus Family: Pongidae
+Pongo pygmaeus
+Gorilla gorilla
+Pan troglodytes
+P. paniscus
+Sources: Martin (1990), Swindler (1998), Fleagle (1999).
+Natural History (Smithsonian Institution), Chicago Field Museum, and The Cleveland Museum of Natural History. Casts were also made of specimens in the collections of Dr Neil C. Tappen and Henry C. McGill.
+The casting technique is relatively simple and provides permanent material for detailed study in the laboratory. All casts were poured within five to ten minutes after the impressions were made; this minimizes the possibility of dimensional change (Skinner, 1954). In addition, a study has shownthat measurementstaken on dental casts are directly comparable to measurements of the original teeth (Swindler, Gavan and Turner, 1963). The observed differences are more likely due to instrumentation than to dimensional change resulting from the dental materials. All casts were made by my assistants and myself.
+The original specimens were collected for the respective museums and comefrommanydifferentgeographicareasoftheworld.Inthemajorityof cases, species are represented from a wide range within their normal geographic range, although in certain groups, e.g. Papio cynocephalus, the animalswerecollectedfroma morelimitedareaandmaywellapproximate an interbreeding population. Macaca mulatta specimens from Cayo Santiago, Puerto Rico were used as well as M. nemestrina from the Regional PrimateResearch Center at the University of Washington. Unfortunately, several species were represented by only a few specimens, or in one or two cases, by a single specimen. This usually meant that these species were rare in museum collections and because of constraints of money and time, it was impossible to increase the sample. Also, the manner in which specimens were collected in the field influenced the randomness of a sample and anyonewho hasusedmuseumcollectionsis quickto realizethisfact.There are obviously other biases in such a collection of specimens (ca. 2000) as studied in this book. However, since the principal objective of this work is to describe the normal dentition and present a statement of the range and magnitude of dental variability within the major genera and species of extant primates, the influences of these unavoidable biases should be mitigated.
+The sex of the animals was determined in the field at the time of collection and any specimen of doubtful sex was excluded from the study. In the analytical descriptions in each section of the book the sexes are pooled unless otherwise stated.
+The illustrations of the upper and lower teeth of all of the species in the book, unless otherwise stated, were drawn by Dr Robert M. George, Departmentof Biology,FloridaInternationalUniversity,Miami,Florida. The number in millimeters (mm) that appears in the caption of each illustration represents the length of the maxillary arch of the original specimen measured from the mesial surface of the upper central incisors to a line perpendicular to the distal surfaces of the maxillary third molars or, in the callitrichids, the second molars.
+Odontometry
+All tooth measurements were taken with a Helios caliper. The arms were ground to fine points for greater accuracy. Mesiodistal and buccolingual dimensions of maxillary and mandibular teeth were taken. In all odontometric calculations, the sample size (n) refers to the number of animals measured. This procedure is more realistic than presenting the number of teeth measured since it is well known that there are very few significant differences between the dimensions of right and left teeth. The right side is presented here; however, if a tooth was badly worn or absent its antimere was used. Also, teeth exhibiting noticeable wear were excluded. It should also be mentioned that in many cases the n presented in Appendix 1 differs from the number of animals studied in the morphological section for a given species. This is due to the fact that in many cases the teeth could be examined for a particular morphological trait, yet were too worn to measure, or vice versa.
+Repeated measurements taken on the same teeth revealed an average difference between measurements of 0.2mm. The teeth were measured by Odontometry
+ 
+Fig. 1.1. Odontometric landmarks. B, breadth; L, length. Reprinted from Swindler, D. R. (1976) Dentition of Living Primates, with the permission of Academic Press Inc. (London) Ltd.
+the author and research assistants, each of whom was trained by the author. The measurements are shown in Fig. 1.1 and are defined as follows.
+Incisors
+LENGTH. Mesiodistal diameter taken at the incisal edge of the upper and lower incisors.
+BREADTH. Buccolingual diameter taken at the cementoenamel junction at a right angle to the mesiodistal diameter.
+Canines
+LENGTH. Upper canine: diameter from the mesial surface to the distolingual border. Lower canine: mesiodistal diameter measured at the level of the mesial alveolar margin.
+BREADTH. Buccolingual diameter taken at the cementoenamel junction at a right angle to the mesiodistal diameter.
+Premolars
+LENGTH. Maximum mesiodistal diameter taken between the contact
+points. If the mesial contact is lacking on P or P owing to a diastema
 
+between it and the canine, the maximum horizontal distance is measured from the distal contact point to the most mesial point on the surface of the premolar. The same method is used on primates with three premolars, for
+example, P or P are measured as described above for P and P .
+		
+BREADTH. Maximum buccolingual diameter taken at a right angle to the mesiodistal diameter.
+Molars
+LENGTH. Maximum mesiodistal diameter taken on the occlusal surface between the mesial and distal contact points.
+BREADTH. Maximum buccolingual diameter measured at a right angle to the mesiodistal dimension. The breadths of both the trigon (trigonid) and the talon (talonid) were taken in this manner.
+Statistical calculations for means and standard deviations (s.d.) were performedfor the dental measurements of each species by sex. Hypotheses of equality of means between sexes of each species, where the sampleswere large enough, were tested by using the appropriate small sample t-test statistic (Sokal and Rohlf, 1969). The results of the t-tests for sexual dimorphism are presented for each species in the odontometric tables in Appendix 1.
+Dental terminology
+The incisors and canines are known as the anterior teeth; premolars and molars are the posterior teeth (Fig. 1.2). The tooth surfaces facing toward the cheek are called the buccal surfaces (odontologists often distinguish between the buccal and labial surfaces, labial being limited to the incisor and canine surfaces facing the lips, i.e. labia). All surfaces facing the tongue are referred to as lingual. The mesial (anterior) surface of a tooth faces toward the front of the oral cavity; those more distant are called the distal (posterior) surfaces. A cusp is defined as having structural or functional occlusal areal components delimited by developmental grooves and having independentapexes. The principalcusps, conulesand styles, as well
+ 
+ 
+Fig. 1.2. The permanent upper and lower dental arches of the gorilla, with cusp terminology and terms of position within the oral cavity. Drawn by Linda E. Curtis.
+as the functionally important crests connecting them in various ways on the occlusal surfaces, have had different names through the years. Since there is still frequent confusion regarding dental terminology in the literature, the terms used in this book as well as some of the more common synonymies are presented in Table 1.2.
+Many of the terms presented in Table 1.2 were suggested in the late nineteenth century for the cusp names of mammalian molar teeth by E. D. Cope(1888)andH.F.Osborn(1888).This terminologywasbasedontheir interpretation of the origin of the tritubercular upper and lower mammalianmolarpatternsthat becameknown as the TritubercularTheory.As mentioned, other terms have been proposed for the major cusps through the years, but the original names are so well entrenched, and their weaknesses and strengths so well recognized and understood by odontologists, that I have used them in this book. This is often referred to as the Cope–Osborn nomenclature for the principal cusps of mammalian molars (Fig. 1.2). For other views on the fascinating subject of the evolution of mammalianmolarsand the namingof the principal cusps,one should read the contributions of Vandebroek (1961) and Hershkovitz (1971).
+Today it is known that the reptilian single cusp of the upper jaw is the paracone, not the protocone as thought by Cope. After the evolution of the protocone the molars evolved into a triangular pattern which Simpson (1936) termed tribosphenic (from the Greek tribein, to rub; sphen, a wedge), which better describesthe grinding functions of the protoconeand talonid basin along with the alternating and shearing action of the trigon and trigonid (Fig. 1.3). The upper molar is a three-cusped triangle, formed by the paracone, metacone, and protocone, known as the trigon (Fig. 1.3). The hypocone appears later and is added to the distolingual surface of upper molars forming the talon (Fig. 1.3). The lower molar has a trigonid (-id is the suffix added to the terms of all lower teeth) consisting of the paraconid, metaconid and protoconid (note, protoconid is the correct designation for the original cusp of the reptilian lower molars). In the majorityof extant primates,with the exceptionof Tarsius,theparaconid is absent. The talonid develops on the distal aspect of the trigonid and often bears three cusps, hypoconid, entoconid, and hypoconulid (Fig. 1.3). A cingulum (cingulid) girdled the tribosphenic molar and portions of it may be present on the teeth of extant primates. When present, these structures are known as styles (stylids) and are named for their related cusp, e.g., paracone (parastyle). The molars of all extant primates are derived from the tribosphenic pattern; indeed, all living mammals, with the exception of monotremes, are descended from Cretaceous ancestors with tribosphenic molars (Butler, 1990). This has been the accepted theory of mammalian Table 1.2. Tooth nomenclature
+This book	Synonymy
+Upper teeth
+Paracone (O)	Eocone (Vb)
+Protocone (O)	Epicone (Vb)
+Metacone (O)	Distocone (Vb)
+Hypocone (O)	Endocone (Vb)
+Metaconule (O)	Plagioconule (Vb)
+Protoconule (O)	Paraconule (Vb)
+Distoconulus (R)	Postentoconule (H)
+Parastyle (O)	Mesiostyle (Vb)
+Mesostyle (O)	Ectostyle-1 (H)
+Metastyle (O)	Distostyle (Vb)
+Distostyle (K)	—
+Carabelli cusp	Protostyle (O)
+Postprotostyle (K)	Interconule (R)
+Preprotocrista (VV)	Protoloph (O)
+Crista obliqua (R)	Postprotocrista (VV)
+Entocrista (H)	—
+Premetacrista (S)	—
+Postmetacrista (S)	—
+Trigon basin (S)	Protofossa (VV)
+Lower teeth
+Paraconid (O)	Mesioconid (Vb)
+Protoconid (O)	Eoconid (Vb)
+Metaconid (O)	Epiconid (Vb)
+Entoconid (O)	Endoconid (Vb)
+Hypoconid (O)	Teloconid (Vb)
+Hypoconulid (O)	Distostylid (Vb)
+Mesiostylid (Vb)	—
+Ectostylid (K)	—
+Protostylid (K)	Postmetaconulid (H)
+Tuberculum intermedium (R)	Postentoconulid (H)
+Tuberculum sextum (R)	Protolophid (VV)
+Protocristid (S)	Premetacristid (H)
+Cristid obliqua (S)	—
+Postentocristid (H)	Paralophid (VV)
+Paracristid (S)	—
+Postmetacristid (S)	—
+Trigonid basin (S)	Prefossid (VV)
+Talonid basin (S)	Postfossid (VV)
+Sources: H, Hershkovitz (1971); K, Kinzey (1973); O, Osborn (1907); R, Remane (1960);
+S, Szalay (1969); Vb, Vandebroek (1961); VV, Van Valen (1966). Reprinted from Swindler, D. R. (1976) Dentition of Living Primates, with permission of Acadmic Press Inc. (London) Ltd.
+ 
+Fig. 1.3. The generalized upper and lower mammalian molar pattern. Reprinted from Simpson, G. G. (1937). The beginning of the age of mammals, Biological Reviews of the Cambridge Philosophical Society 12, 1–47, Fig. 11, p.28.
+Reprinted with the permission of Cambridge University Press.
+molarevolutionuntilrecently.Thediscoveryofnew pre-Cretaceousfossils with fully developed tribosphenic molars challenges the current idea concerning the timing of divergence of the main extant mammalian groups. It now appears that there may have been a dual origin of the tribosphenic molar (Luo, Cifelli and Kielan-Jawarowska, 2001). According to their hypothesis, a lineage with a tribosphenic molar radiated in southern Gondwanaland, giving rise to monotremes. The other lineage with a tribosphenicmolar, evolved in the northern landmassof Laurasia, into the marsupials and placental mammals of today. This new paradigm will certainly engender controversy until it is either accepted or rejected. The evolutionary significance of the tribosphenic molar was clearly stated by Simpson (1936, p.810) when he wrote ‘This is the most important and
+potent type of molar structure that has ever been evolved.’
+One of the most comprehensivestudies of the evolution of primate teeth still remains The Origin and Evolution of the Human Dentition (1922) by William King Gregory. Of course, this book is dated; however, it still contains much of interest to all students of primate dental evolution. The original permanent mammalian dental formula was:
+I-C-P-M/ I -C -P -M ×2=44
+	  	
+The majority of early primates had lost one incisor, and by the Eocene, premolar reduction had begun. The first (central) incisor is usually considered the missing member of the group and premolar reduction occurs from mesial to distal as explained below.
+Primates have two sets of teeth, deciduous (also known as milk or primary) and permanent. The deciduous teeth, incisors, canines, and premolars emerge into the oral cavity before the permanent incisors, canines, and premolars that replace them, while the permanent molars emerge distally to the deciduous teeth (Chapter 3). The number and class of teeth in each quadrant of the jaw can be written for both deciduous and permanent teeth as a dental formula:
+di-dc-dp/ di -dc -dp ×2=20
+	 	
+I-C-P-M/ I -C -P -M ×2=32
+	  	
+In this example, the formulas represent the deciduous and permanent dentitions of all catarrhine primates. A question arises regarding the designation of the deciduous cheek teeth. Since these teeth are actually the deciduous third and fourth premolars of other mammals and are replaced by the permanent third and fourth premolars, they should be called deciduous premolars (Delson, 1973; Hillson, 1996). However, the terms of humandentistryhavenot includedmammaliandentalevolutionarytheory and have generally prevailed through the years. A similar issue exists regarding the permanent premolars: as noted above, there were originally four premolars in each quadrant of ancient mammalian jaws, but in all living primates, at least the first premolar has been lost. Hence, most prosimians and all platyrrhines have three premolars. Some genera have alsolost more thanone. Asecondpremolar has beenlostin allcatarrhines. The remaining permanent premolars then are properly identified as P2, P3 and P4 or P3 and P4; however, traditional dentistry refers to them as P1 and P2. The zoological terminology is used in this book.
